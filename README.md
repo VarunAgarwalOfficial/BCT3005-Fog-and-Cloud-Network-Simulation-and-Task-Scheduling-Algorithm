@@ -1,5 +1,7 @@
 # Fog and Cloud Task Scheduling Simulation
 
+> **Archived.** Superseded by [fog-scheduling](https://github.com/VarunAgarwalOfficial/fog-scheduling), which compares six policies on the same workloads over many seeds. This repository is kept as a record and is read-only.
+
 A Python simulation of a three-tier network (users, fog nodes, one cloud node) used to compare task scheduling policies: Shortest Job First, Priority, and a hybrid of the two. This is coursework, not a published paper.
 
 ![Simulated network: users (green) connect to the nearest fog node (red), which connects to the cloud (blue)](screenshots/results/1.png)
